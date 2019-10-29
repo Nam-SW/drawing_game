@@ -1,2 +1,2 @@
 # drawing_game
-# AI 
+# AI 캐치마인드
